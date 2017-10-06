@@ -12,5 +12,5 @@ LUIS App (https://www.luis.ai/welcome) set up with:
   
   
 To develop your own Bot Framework solutions using the Bot Builder SDK for .NET,
-you will need the Bot template for Visual Studio: aka.ms/bf-bc-vstemplate
+you will need the Bot template for Visual Studio: http://aka.ms/bf-bc-vstemplate
   
